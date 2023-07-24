@@ -19,3 +19,16 @@ button {
 	font-weight: bold;
 	font-size: 1.2rem;
 }
+
+pre {
+	white-space: pre-wrap;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+nav {
+	background-color: blue;
+	padding: 10px;
+}
